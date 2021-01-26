@@ -1,0 +1,42 @@
+#login{
+    margin-top: 50px;
+    /* margin-left: 100px; */
+    
+    padding: 40px;
+}
+#header{
+    text-align: center;
+}
+.input{
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 40px;
+}
+body{
+    padding: 50px;
+}
+#transaction{
+    display: none;
+    margin-left: 60px;
+    margin-top: 50px;
+    
+}
+.status{
+    padding: 40px;
+    border-radius: 10px;
+    color: white;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.input{
+    margin-top: 150px;
+    box-shadow: 5px 5px 10px gray;
+}
